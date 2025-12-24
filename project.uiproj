@@ -1,0 +1,6 @@
+{
+  "Name": "GithubDemo_Project",
+  "ProjectType": "Process",
+  "Description": "We will connect the GIT with the Uipath Studio",
+  "MainFile": "Main.xaml"
+}
